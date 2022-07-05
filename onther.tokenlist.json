@@ -14,7 +14,7 @@
       "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
-      "logoURI": "https://ethereum.org/static/a62391514b71539906d6bd8ec820c7d8/d1ef9/eth-diamond-glyph.png",
+      "logoURI": "https://ethereum.org/static/a62391514b71539906d6bd8ec820c7d8/d1ef9/eth-diamond-glyph.png"
     },
     {
       "chainId": 1,
@@ -22,7 +22,7 @@
       "symbol": "WTON",
       "name": "Wrapped TONB=",
       "decimals": 27,
-      "logoURI": "https://swap.tokamak.network/static/media/WTON_symbol.6cfa6641.svg",
+      "logoURI": "https://swap.tokamak.network/static/media/WTON_symbol.6cfa6641.svg"
     }
   ],
   "version": {
