@@ -1,0 +1,33 @@
+{
+  "name": "Onther.inc token list",
+  "logoURI": "https://cdn-images-1.medium.com/max/184/1*1HiaFBz6LFs4ZHJHVEI4eA@2x.jpeg",
+  "keywords": [
+    "audited",
+    "verified",
+    "Onther tokens"
+  ],
+  "timestamp": "2022-07-05T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://ethereum.org/static/a62391514b71539906d6bd8ec820c7d8/d1ef9/eth-diamond-glyph.png",
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2",
+      "symbol": "WTON",
+      "name": "Wrapped TONB=",
+      "decimals": 27,
+      "logoURI": "https://swap.tokamak.network/static/media/WTON_symbol.6cfa6641.svg",
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
