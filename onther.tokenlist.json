@@ -1,19 +1,57 @@
 {
-  "name": "Onther.inc token list",
+  "name": "Onther",
+  "timestamp": "2022-07-06T12:00:00+00:00",
   "logoURI": "https://cdn-images-1.medium.com/max/184/1*1HiaFBz6LFs4ZHJHVEI4eA@2x.jpeg",
-  "timestamp": "2022-07-05T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2",
-      "symbol": "WTON",
-      "name": "Wrapped TON",
-      "decimals": 27,
-    }
-  ],
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
-  }
+  },
+  "keywords": [
+    "uniswapv3",
+    "Onther",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0xc4a11aaf6ea915ed7ac194161d2fc9384f15bff2",
+      "chainId": 1,
+      "name": "Wrapped TON",
+      "symbol": "WTON",
+      "logoURI": "https://tonstarter-symbols.s3.ap-northeast-2.amazonaws.com/wton-symbol%403x.png",
+      "decimals": 18
+    },
+    {
+      "address": "0x409c4D8cd5d2924b9bc5509230d16a61289c8153",
+      "chainId": 1,
+      "name": "TONStarter",
+      "symbol": "TOS",
+      "logoURI": "https://tonstarter-symbols.s3.ap-northeast-2.amazonaws.com/tos-symbol%403x.png",
+      "decimals": 18
+    },
+    {
+      "address": "0x0e498afce58dE8651B983F136256fA3b8d9703bc",
+      "chainId": 1,
+      "name": "Dooropen",
+      "symbol": "DOC",
+      "logoURI": "https://tonstarter-symbols.s3.ap-northeast-2.amazonaws.com/doc-symbol%403x.png",
+      "decimals": 18
+    },    
+    {
+      "address": "0xaEC59E5b4f8DbF513e260500eA96EbA173F74149",
+      "chainId": 1,
+      "name": "Dragons of Midgard",
+      "symbol": "AURA",
+      "logoURI": "https://tonstarter-symbols.s3.ap-northeast-2.amazonaws.com/aura-logo-black-big.png",
+      "decimals": 18
+    },
+    {
+      "address": "0xE1B0630D7649CdF503eABc2b6423227Be9605247",
+      "chainId": 1,
+      "name": "LYDA",
+      "symbol": "LYDA",
+      "logoURI": "https://swap.tokamak.network/static/media/WTON_symbol.6cfa6641.svg",
+      "decimals": 18
+    }
+  ]
 }
