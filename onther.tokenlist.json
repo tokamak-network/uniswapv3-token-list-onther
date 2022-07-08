@@ -19,7 +19,7 @@
       "name": "Wrapped TON",
       "symbol": "WTON",
       "logoURI": "https://tonstarter-symbols.s3.ap-northeast-2.amazonaws.com/wton-symbol%403x.png",
-      "decimals": 18
+      "decimals": 27
     },
     {
       "address": "0x409c4D8cd5d2924b9bc5509230d16a61289c8153",
