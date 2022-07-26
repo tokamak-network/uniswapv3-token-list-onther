@@ -7,12 +7,12 @@ Description:
 As the rate of token issuance accelerates, it has become increasingly difficult for users to filter out high quality, legitimate tokens from scams, fakes, and duplicates. Across the space, projects are managing and maintaining rapidly growing token lists. The end result is a lot of wasted time, slow listing processes and scammed users. In addition, builders should spend their time building, not deciding which tokens are legitimate and which are scams, fakes or duplicates.
 
 How to use: 
-1. go to https://app.uniswap.org/#/swap?chain=mainnet
-2. select "select a token"
-3. select "Manage Token Lists"
+1. Go to https://app.uniswap.org/#/swap?chain=mainnet
+2. Select "select a token"
+3. Select "Manage Token Lists"
 4. Under Lists input box, paste https://onther-tech.github.io/uniswapv3-token-list-onther/onther.tokenlist.json
-5. select "Import"
-6. select back arrow on the top of the UI 
+5. Select "Import"
+6. Select back arrow on the top of the UI 
 7. You should be able to search tokens related to Onther network such as WTON and TOS 
 
 
