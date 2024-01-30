@@ -1,3 +1,7 @@
+# Notice
+This repository is no longer in use. For up-to-date information about tokens, please refer to the [Tokamak-Multichain Repository](https://github.com/tokamak-network/tokamak-multichain).
+
+
 Guide: 
 This is an example of token list standard introduced by Uniswap @ https://uniswap.org/blog/token-lists
 
